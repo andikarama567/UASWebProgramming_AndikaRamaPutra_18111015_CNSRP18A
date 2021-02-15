@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../Pict/2\ \(1\).jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container{
+    background: rgba(0,0,0,0.5);
+    width: 20%;
+    margin-top: 10%;
+    box-shadow: 0 3px 20px rgba(0,0,0,0.5);
+    padding: 45px;
+    color: white;
+}
+
+button{
+    width: 49%;
+}
+
+
+.button1{
+    margin-top: 4%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button1 a{
+    color: #ffffff;
+
+}
